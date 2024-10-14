@@ -1,4 +1,4 @@
-```markdown
+```
 # File Navigator Script
 
 This is a simple batch script designed to search for a specified file across multiple drives on a Windows system. The script allows users to choose whether to open the found file or continue searching for other instances.
