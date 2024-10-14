@@ -1,5 +1,3 @@
-Certainly! Below is a sample README file that you can use for your GitHub repository. This README provides an overview of the script, its usage, and other relevant details.
-
 ```markdown
 # File Navigator Script
 
