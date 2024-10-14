@@ -1,7 +1,8 @@
-```
 # File Navigator Script
 
-This is a simple batch script designed to search for a specified file across multiple drives on a Windows system. The script allows users to choose whether to open the found file or continue searching for other instances.
+This is a simple batch script designed to search for a specified file across multiple drives on a Windows system.<br>
+The script allows users to choose whether to open the found file or continue searching for other files.<br>
+All the displayed dialogues in the code's usage are in Marathi language. If you want to change it, feel free to do so in yours.
 
 ## Features
 
@@ -11,7 +12,6 @@ This is a simple batch script designed to search for a specified file across mul
 - Displays informative messages throughout the search process.
 
 
-```
 ## Usage
 To use this script, follow these steps:
 
